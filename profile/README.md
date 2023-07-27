@@ -9,15 +9,17 @@ Simply put, LPs provide liquidity to enable nominators to execute a feature for 
 
 # Project Structure
 ## Contracts
-
+- Contract Infos ..
+- **Visit Contract Repo**  
+https://github.com/Nex-TON/Hack-a-Ton_Contracts
 ## Frontend
 - Written in React JS   
-- **Visit Frontend**
+- **Visit Frontend Repo**  
 https://github.com/Nex-TON/Hack-a-TON_Frontend
 
 ## Server
 - Written in Express JS   
-- **Visit Telegram Bot Server**
+- **Visit Telegram Bot Server Repo**  
 https://github.com/Nex-TON/Hack-a-TON_Telegram_bot
 
 # Access Bot
