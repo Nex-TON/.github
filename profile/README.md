@@ -7,22 +7,7 @@ Nexton is a yield optimizer based on liquid staking that offers liquidity for st
 
 Simply put, LPs provide liquidity to enable nominators to execute a feature for maximizing staking rewards while LPs receive incentives, on the other side, nominators are going to earn optimum rewards while they retaining NFT during lock-up period. Under the hood, this protocol is connected to TON nominator pool. It means all of provided liqudity and requested amount of staking assets are staked, then each stakeholder could optimized profits. Furthermore, it would be connected to existing staking-related protocols as long as we could make synergy with them.
 
-# Structs
-
-# Getting started
-
-## Initialize
-
-## Quick start
-
-### More functions
-
-# More Info & Demo 
-> Demo 
-> Desc
-
-# How to use
-### First, Connect Wallet to our product by inviting and running Nexton_Bot into your TG chat.
-### Second, If you want to get more incentive, provide liquidity into LP pool. (Min. 10,000 TON)
-### Third, Stake and earn maximzied staking rewards
-### Finally, Check your NFT and accruing rewards on My asset.
+# How to Use
+사용하려면 두 가지 방법으로 사용할 수 있다 
+로컬에서 실행하려면 어뜨케 해라 
+텔레그램 아이디(직접 사용해봐라)
