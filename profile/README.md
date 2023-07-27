@@ -25,7 +25,7 @@ https://github.com/Nex-TON/Hack-a-TON_Frontend
 https://github.com/Nex-TON/Hack-a-TON_Telegram_bot
 
 # Access Bot
-Please add @Nexton_twa_bot (Telegram Web Application Bot) on your TG to try in person.   
+Please add **@Nexton_twa_bot** (Telegram Web Application Bot) on your TG to try in person.   
 ## Supported Wallets
 - Ton keeper (recommended Mobile)
 - Openmask (recommended Web)
