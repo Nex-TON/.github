@@ -11,10 +11,9 @@ Simply put, LPs provide liquidity to enable nominators to execute a feature for 
 
 
 ### How to use
-- Read this <a href="" target="_blank">paper</a>
-- Read this [paper](https://blockwavelabs.notion.site/Nexton-Hack-a-TON-166d2ea181cb438f979f26ce05a3b831).{:target="_blank"}
-- [Architecture&Appendix](https://drive.google.com/file/d/1dpH8eWsTyDSb0Z02Tmj5cvKgVciaXqnD/view?usp=sharing){:target="_blank"}
-- [Demo](https://youtu.be/YFq1Cad5-A4){:target="_blank"}
+- Read this <a href="https://blockwavelabs.notion.site/Nexton-Hack-a-TON-166d2ea181cb438f979f26ce05a3b831" target="_blank">paper</a>
+- <a href="https://drive.google.com/file/d/1dpH8eWsTyDSb0Z02Tmj5cvKgVciaXqnD/view?usp=sharing" target="_blank">Architecture&Appendix</a>
+- <a href="https://youtu.be/YFq1Cad5-A4" target="_blank">Demo video</a>
 
 # Project Structure
 ## Contracts
