@@ -1,6 +1,6 @@
 # Nexton 
 ## LSD project on TON network
-![NEXTON_logo_purple](https://github.com/Nex-TON/Hack-a-TON/assets/96057861/0267ccc6-2612-4800-ab27-b49fe597a8e0)
+<img width="80%" src="https://github.com/Nex-TON/.github/assets/96057861/8b4b8251-0078-44e8-a0b8-6bd498c75d47">
 
 ## What is Nexton? 
 Nexton is a yield optimizer based on liquid staking that offers liquidity for staked assets. It appeals to large TON holders who are not active in Defi protocols by providing them with a secure way to earn maximum staking profits. Additionally, it guarantees LPs a maximum of 40% APY, making it an attractive option for entering the TON ecosystem.
