@@ -19,21 +19,21 @@ Simply put, LPs provide liquidity to enable nominators to execute a feature for 
 - written in Tact and Func
 - developed using the Blueprint framework 
 - **Visit Contract Repo**  
-https://github.com/Nex-TON/Hack-a-Ton_Contracts
+https://github.com/Nex-TON/Nexton_Contracts
 ## Frontend
 - Web Application, Client part of the project.
 - Created using React JS   
 - **Visit Frontend Repo**  
-https://github.com/Nex-TON/Hack-a-TON_Frontend
+https://github.com/Nex-TON/Nexton_Frontend
 
 ## Server
 - Server part of the project, contains a Telegram bot.
 - Created using Express JS   
 - **Visit Telegram Bot Server Repo**  
-https://github.com/Nex-TON/Hack-a-TON_Telegram_bot
+https://github.com/Nex-TON/Nexton_Telegram_bot
 
 # Access Bot
 Please add **@Nexton_twa_bot** (Telegram Web Application Bot) on your TG to try in person.   
 ## Supported Wallets
 - Ton keeper (recommended Mobile)
-- Openmask (recommended Web)
+- Ton Space 
